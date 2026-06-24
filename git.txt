@@ -1,0 +1,14 @@
+git config --global user.name "UR GITHUB USERNAME"
+git config --global user.email "UR GITHUB MAIL ID"
+
+
+git config --global user.name "UR GITHUB USERNAME"
+git config --global user.email "UR GITHUB MAIL ID"
+
+
+git config --global user.name "UR GITHUB USERNAME"
+git config --global user.email "UR GITHUB MAIL ID"
+
+
+git config --global user.name "UR GITHUB USERNAME"
+git config --global user.email "UR GITHUB MAIL ID"
